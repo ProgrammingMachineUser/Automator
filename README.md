@@ -12,6 +12,4 @@ Ex:
 
 python3 automator.py
 
-Licença
 
-Este projeto é licenciado sob a licença MIT.
